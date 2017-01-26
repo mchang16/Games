@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Unity Game (SwampHacks Project)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a bullshit game I made during my fours at college.
 
 ```markdown
 Syntax highlighted code block

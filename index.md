@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Current Projects
 
-You can use the [editor on GitHub](https://github.com/mchang16/Games/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+These are my projects. They are still in progress, as I am currently adding new things to them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Unity Game (SwampHacks 2017 Project)
 
-### Unity Game (SwampHacks Project)
+This is a platform and shooting game I made in Unity with two other team members at a hackathon.
 
-This is a bullshit game I made during my fours at college.
+### Text Based Adventure Game 
 
-```markdown
-Syntax highlighted code block
+A story game composed entirely of text, made using inputs and outputs in Java.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mchang16/Games/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

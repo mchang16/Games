@@ -1,6 +1,5 @@
 ## Current Projects
-
-These are my projects. 
+ 
 
 ### Hamburger Shooter (SwampHacks 2017 Project)
 

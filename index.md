@@ -4,7 +4,7 @@ These are my projects.
 
 ### Hamburger Shooter (SwampHacks 2017 Project)
 
-This is a platform and shooting game I started creating in Unity with two other team members at a hackathon.
+This is a shooting game I started creating in Unity with two other team members at a hackathon.
 I've added more features to it since, including:
 
 * Spawning enemies
@@ -16,7 +16,7 @@ I've added more features to it since, including:
 * [Download link for Linux](https://www.dropbox.com/s/ilu28g7inap787w/For%20Linux.zip?dl=0)
 
 
-### Crush Story (Text Based Adventure Game) *Currently In-Progress*
+### Crush Story (Text Based Adventure Game) *-Currently In-Progress-*
 
 A story game composed entirely of text, made using inputs and outputs in Java.
 

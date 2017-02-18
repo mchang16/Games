@@ -24,4 +24,10 @@ A story game composed entirely of text, made using inputs and outputs in Java.
 all while trying not to scare your crush away with your weird behavior in this shockingly 
 realisitic and idiotic game.*
 
+Includes:
+
+* RPG styled battle system
+* Humorous dialogue
+* Player decision making
+
 

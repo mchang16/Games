@@ -28,7 +28,7 @@ Includes:
 * Humorous dialogue
 * Player decision making
 
-[Batch file](https://www.dropbox.com/s/q9y3nz2a5s6oyh1/Love%20Quest.zip?dl=0)
-[Java file](https://www.dropbox.com/s/frnl0kn92jgvvwk/StartingOut.java?dl=0)
+* [Batch file](https://www.dropbox.com/s/q9y3nz2a5s6oyh1/Love%20Quest.zip?dl=0)
+* [Java file](https://www.dropbox.com/s/frnl0kn92jgvvwk/StartingOut.java?dl=0)
 
 

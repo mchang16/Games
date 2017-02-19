@@ -15,13 +15,12 @@ I've added more features to it since, including:
 * [Download link for Linux](https://www.dropbox.com/s/ilu28g7inap787w/For%20Linux.zip?dl=0)
 
 
-### Crush Story (Text Based Adventure Game) *-Currently In-Progress-*
+### Love Quest (Text Based Adventure Game) *-Currently In-Progress-*
 
 A story game composed entirely of text, made using inputs and outputs in Java.
 
-*Will you be able to win the affection of your crush? Fight off your rivals in combat 
-all while trying not to scare your crush away with your weird behavior in this shockingly 
-realisitic and idiotic game.*
+* Fight off your rivals in combat all while trying not to scare your crush away with your weird behavior 
+in this shockingly realisitic and idiotic game.*
 
 Includes:
 

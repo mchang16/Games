@@ -19,7 +19,7 @@ I've added more features to it since, including:
 
 A story game composed entirely of text, made using inputs and outputs in Java.
 
-* Fight off your rivals in combat all while trying not to scare your crush away with your weird behavior 
+*Fight off your rivals in combat all while trying not to scare your crush away with your weird behavior 
 in this shockingly realisitic and idiotic game.*
 
 Includes:

@@ -1,6 +1,6 @@
 
 ## Current Projects
-<link rel="stylesheet" type="text/css" href="/css/main.css">
+
  
 
 ### Hamburger Shooter (SwampHacks 2017 Project)

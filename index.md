@@ -39,7 +39,7 @@ Includes:
 - [Java file](https://www.dropbox.com/s/frnl0kn92jgvvwk/StartingOut.java?dl=0)
 
 
-###Shooting For the Stars (School 
+
 
 
 

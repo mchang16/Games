@@ -1,1 +1,93 @@
 
+
+body{
+    background:##FBFBFB 
+
+}
+h3,h2, .Name {
+    font-family:Gadugi;
+}
+
+#Name{
+
+    font-size: 40px;
+
+
+}
+p{
+    font-family: Gadugi;
+}
+
+#Shapes{
+    font-family: Gadugi;
+    font-size: 15px;
+    position: relative;
+    margin-left: 20px;
+    width: 220px;
+    height: 100px;
+    background:#FFB0C5;
+    border-radius: 2em;
+    border: groove 0.2em #DBDBDB;
+}
+
+#Shapes2{
+    font-family: Gadugi;
+    font-size: 15px;
+    position: relative;
+    left: 270px;
+    top: -120px;
+    width: 220px;
+    height: 100px;
+    background: #FFB0C5;
+    border-radius: 2em;
+     border: groove 0.2em #DBDBDB;
+}
+
+#InProgTitle{
+    position:relative;
+    top: -100px;
+
+
+}
+
+#InProg1{   
+    font-family: Gadugi;
+    font-size: 15px;
+    position: relative; /*Relative to normal position*/
+    margin-left: 20px;
+    top: -100px;
+    width: 220px;
+    height: 100px;
+    background: #FFB0C5;
+    border-radius: 2em;
+     border: groove 0.2em #DBDBDB  ;
+    
+
+}
+
+#ContactBack{
+
+    position: absolute;
+    float: right;
+    bottom:130px;
+    left: 960px;
+    margin-right: 40px;
+    width: 250px;
+    height: 300px;
+    background:#D35674   ;
+    border-radius: 2em;
+    border: groove 0.2em #DBDBDB
+
+}
+
+#ContactTitle{
+
+    position:absolute;
+    float: right;
+    left: 980px;
+    top:85px;
+
+}
+
+
+
